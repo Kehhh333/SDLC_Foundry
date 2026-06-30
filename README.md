@@ -26,10 +26,6 @@ Foundry Engineers
 
 5\. Test Case Generator
 
-6\. Test Execution Agent
-
-7\. CI/CD Agent (Optional)
-
 
 
 \## Current Use Case
